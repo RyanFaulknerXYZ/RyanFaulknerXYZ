@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to my GitHub page!
+Welcome to my GitHub page! Here, you'll find a range of repositories that showcase my work and reflect my commitment to advancing technology and solving complex problems. Whether you're here to collaborate or just to explore, I hope you find these projects insightful and inspiring.
 
-Here, you'll find a range of repositories that showcase my work and reflect my commitment to advancing technology and solving complex problems. Whether you're here to collaborate or just to explore, I hope you find these projects insightful and inspiring.
+My interests span across robotic control, privacy, mobile development, blockchain technology, and artificial intelligence—fields where I have not only contributed to but also shaped cutting-edge projects. 
 
 Feel free to connect with me or contribute to any of the projects you find interesting here. Let's innovate together!
 
